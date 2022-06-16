@@ -20,7 +20,8 @@ Relevant notebooks are:
 
 The following library versions worked for me (in model_conversion conda):
 - Note: there are certainly unused libraries included.
-Package                       Version             Editable project location
+- 
+1.Package                       2.Version             (3.Editable project location)
 ----------------------------- ------------------- ------------------------------------------
 absl-py                       1.0.0
 alabaster                     0.7.12
