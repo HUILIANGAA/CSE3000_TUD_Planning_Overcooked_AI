@@ -6,7 +6,7 @@ To run the code (you should be able to inspect the results in the jupyter notebo
 2. Setup all the related libraries (list of versions to install directly below) suitable for the neurips branch.
 3. Put all the files except agent.py in the human_aware_rl/human_aware_rl folder.
 4. Replace agent.py in human_aware_rl/overcooked_ai/overcooked_ai_py/agents with the one provided in this repo. (note that I added code to the existing code from the neurips branch).
-5. Open the .ipynb files using model_conversion in conda as used step 1.
+5. Open the .ipynb files using model_conversion in conda as used in step 1.
 
 Relevant notebooks are:
 - CP_HProxy_Experimental_changes
