@@ -15,6 +15,7 @@ Relevant notebooks are:
 - Nils_Graphs
 - Planning_Summarized_Nils
 - NeurIPS Experiments and Visualizations -> not created by me, only run by me.
+- P_BC_neurips
 
 The following library versions worked for me (in model_conversion conda):
 - Note: there are certainly unused libraries included.
