@@ -4,8 +4,9 @@ Code used to run experiments for planning experiments in Overcooked AI, CSE3500 
 To run the code (you should be able to inspect the results in the jupyter notebooks without setting up), follow these steps:
 1. Follow the guide from https://github.com/HumanCompatibleAI/human_aware_rl/tree/neurips2019
 2. Setup all the related libraries (list of versions to install directly below) suitable for the neurips branch.
-3. Put all the files in the human_aware_rl/human_aware_rl folder.
-4. Open the .ipynb files using model_conversion in conda as used step 1.
+3. Put all the files except agent.py in the human_aware_rl/human_aware_rl folder.
+4. Replace agent.py in human_aware_rl/overcooked_ai/overcooked_ai_py/agents with the one provided in this repo.
+5. Open the .ipynb files using model_conversion in conda as used step 1.
 
 Relevant notebooks are:
 - CP_HProxy_Experimental_changes
