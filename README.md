@@ -1,4 +1,7 @@
 # CSE3500_TUD_Planning_Overcooked_AI
+
+Everything from this repository is part of the Research Project (CSE3500, year: 2021-2022): Cooperative AI for Overcooked, at the TU Delft.
+
 Code used to run experiments for planning experiments in Overcooked AI, CSE3500 at the TU Delft.
 
 To run the code (you should be able to inspect the results in the jupyter notebooks without setting up), follow these steps:
