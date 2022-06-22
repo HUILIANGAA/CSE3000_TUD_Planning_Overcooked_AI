@@ -1,4 +1,4 @@
-# CSE3500_TUD_Planning_Overcooked_AI
+# CSE3000_TUD_Planning_Overcooked_AI
 
 Everything from this repository is part of the Research Project (CSE3000, year: 2021-2022): Cooperative AI for Overcooked, at the TU Delft.
 
